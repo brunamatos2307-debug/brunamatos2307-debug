@@ -21,7 +21,7 @@
 
 ## 🖤 sobre_mim.md
 
-Olá! Sou **Bruna Matos**, estudante de Tecnologia da Informação e desenvolvedora em formação.
+Olá! Sou **Bruna Matos**, estudante de informática e desenvolvedora em formação.
 
 Gosto de transformar ideias em soluções por meio da programação. Tenho interesse em **desenvolvimento de software**, **desenvolvimento web**, **banco de dados** e **tecnologia aplicada a problemas reais**.
 
